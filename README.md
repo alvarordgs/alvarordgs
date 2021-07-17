@@ -1,8 +1,8 @@
 ## Hey there, I'm Álvaro 👋
 
-[<img alt="Alvaro R. | Linkedin" width="25px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/linkedin.svg" />](https://www.linkedin.com/in/álvaro-rodrigues-438b15205/)
-[<img alt="Alvaro R. | Discord" width="28px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/discord.svg" />](https://discord.com/channels/@alvarordgs/)
-[<img alt="Alvaro R. | Instagram" width="25px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/insta.svg" />](https://www.instagram.com/alvarordgs98/)
+[<img alt="Alvaro R. | Linkedin" height="25px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/linkedin.svg" />](https://www.linkedin.com/in/álvaro-rodrigues-438b15205/)
+[<img alt="Alvaro R. | Discord" height="25px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/discord.svg" />](https://discord.com/channels/@alvarordgs/)
+[<img alt="Alvaro R. | Instagram" height="25px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/insta.svg" />](https://www.instagram.com/alvarordgs98/)
 
 <br>
 
@@ -16,17 +16,15 @@
  
  **Languages and tools:**
  
- <code><img alt="Javascript" height="25px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/js.svg"/></code>
- <code><img alt="Php" width="30px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/php.svg"/></code>
- <code><img alt="Laravel" height="27px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/laravel.svg"/></code>
- <code><img alt="Linux" height="25px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/linux.svg"/></code>
+ ><span><img alt="Javascript" height="40px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/js.svg"/></code> 
+ ><span><img alt="Php" height="30px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/php.svg"/></span> 
+ ><span><img alt="Laravel" height="40px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/laravel.svg"/></span> 
+ ><span><img alt="Linux" height="40px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/linux.svg"/></span> 
  
  
-<br>
 <br>
 
 ### :bar_chart: Github stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvarordgs&show_icons=true&theme=)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarordgs&layout=compact&theme=)](https://github.com/anuraghazra/github-readme-stats)
 
 
