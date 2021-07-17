@@ -20,7 +20,7 @@
  
  **Languages and tools:**
  
- ><span><img alt="Javascript" height="40px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/js.svg"/></code> 
+ ><span><img alt="Javascript" height="40px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/js.svg"/></span> 
  ><span><img alt="Php" height="30px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/php.svg"/></span> 
  ><span><img alt="Laravel" height="40px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/laravel.svg"/></span> 
  ><span><img alt="Linux" height="40px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/linux.svg"/></span> 
