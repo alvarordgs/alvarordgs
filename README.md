@@ -6,6 +6,10 @@
 
 <br>
 
+![Header Github](https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/background.gif)
+
+<br>
+
 >Hi, I'm Álvaro Rodrigues, a beginner Front-End developer.
 
 - :cow: I'm currently working as trainee in [Girolando](http://www.girolando.com.br) 
@@ -20,7 +24,6 @@
  ><span><img alt="Php" height="30px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/php.svg"/></span> 
  ><span><img alt="Laravel" height="40px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/laravel.svg"/></span> 
  ><span><img alt="Linux" height="40px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/linux.svg"/></span> 
- 
  
 <br>
 
