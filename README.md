@@ -16,6 +16,11 @@
  
  **Languages and tools:**
  
+ <code><img alt="Javascript" height="25px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/js.svg"/></code>
+ <code><img alt="Php" width="30px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/php.svg"/></code>
+ <code><img alt="Laravel" height="27px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/laravel.svg"/></code>
+ <code><img alt="Linux" height="25px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/linux.svg"/></code>
+ 
  
 <br>
 <br>
