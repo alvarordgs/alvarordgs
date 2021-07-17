@@ -1,10 +1,24 @@
 ## Hey there, I'm Álvaro 👋
 
->[<img alt="Alvaro R. | Linkedin" width="28px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/linkedin.svg" />](https://www.linkedin.com/in/álvaro-rodrigues-438b15205/)
->[<img alt="Alvaro R. | Discord" width="25px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/discord.svg" />](https://discord.com/channels/@me/)
->[<img alt="Alvaro R. | Instagram" width="25px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/insta.svg" />](https://www.instagram.com/alvarordgs98/)
+[<img alt="Alvaro R. | Linkedin" width="25px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/linkedin.svg" />](https://www.linkedin.com/in/álvaro-rodrigues-438b15205/)
+[<img alt="Alvaro R. | Discord" width="28px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/discord.svg" />](https://discord.com/channels/@alvarordgs/)
+[<img alt="Alvaro R. | Instagram" width="25px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/insta.svg" />](https://www.instagram.com/alvarordgs98/)
 
-Hi, I'm Álvaro Rodrigues, a beginner Front-End developer.
+<br>
+
+>Hi, I'm Álvaro Rodrigues, a beginner Front-End developer.
+
+- :cow: I'm currently working as trainee in [Girolando](http://www.girolando.com.br) 
+- :rocket: I'm currently learning Laravel
+- :computer: Currently I'm studying ADS at IFTM 
+
+<br>
+ 
+ **Languages and tools:**
+ 
+ 
+<br>
+<br>
 
 ### :bar_chart: Github stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvarordgs&show_icons=true&theme=)](https://github.com/anuraghazra/github-readme-stats)
