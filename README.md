@@ -12,7 +12,7 @@
 
 >Hi, I'm Álvaro Rodrigues, a beginner Front-End developer.
 
-- :cow: I'm currently working as trainee in [Girolando](http://www.girolando.com.br) 
+- :cow: I'm currently working as developer in [Girolando](http://www.girolando.com.br) 
 - :rocket: I'm currently learning Laravel
 - :computer: Currently I'm studying ADS at IFTM 
 
