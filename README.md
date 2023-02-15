@@ -10,7 +10,7 @@
 
 <br>
 
->Hi, I'm Álvaro Rodrigues, a beginner Front-End developer.
+>Hi, I'm Álvaro Rodrigues, a beginner Full-Stack developer.
 
 - :rocket: I'm currently learning React.js, Node.js and Mongo DB.
 - :computer: Currently I'm studying ADS at IFTM 
