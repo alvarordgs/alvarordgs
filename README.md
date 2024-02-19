@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm currently work on Grão Direto<br>📓 I’m currently learning React Native <br>💬 Ask me about web development<br>⚡ Fun fact about me, I started four different undergraduate courses
+🌱 I'm currently work on Grão Direto<br>📓 I’m currently learning React Native <br>💬 Ask me about web development<br>⚡ Fun fact about me: I started four different undergraduate courses
 
 
 ## 🌐 Socials:
