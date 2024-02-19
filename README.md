@@ -1,46 +1,15 @@
-## Hey there, I'm Álvaro 👋
-
-[<img alt="Alvaro R. | Linkedin" height="25px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/linkedin.svg" />](https://www.linkedin.com/in/álvaro-rodrigues-438b15205/)
-[<img alt="Alvaro R. | Discord" height="25px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/discord.svg" />](https://discord.com/channels/@alvarordgs/)
-[<img alt="Alvaro R. | Instagram" height="25px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/insta.svg" />](https://www.instagram.com/alvarordgs98/)
-
-<br>
-
-![Header Github](https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/background.gif)
-
-<br>
-
->Hi, I'm Álvaro Rodrigues, a beginner Full-Stack developer.
-
-- :rocket: I'm currently learning React.js, Node.js and Mongo DB.
-- :computer: Currently I'm studying ADS at IFTM 
-
-<br>
- 
- **Languages and tools:**
- 
- ><span><img alt="Javascript" height="40px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/js.svg"/></span> 
- ><span><img alt="Php" height="30px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/php.svg"/></span> 
- ><span><img alt="Laravel" height="40px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/laravel.svg"/></span> 
- ><span><img alt="Linux" height="40px" src="https://raw.githubusercontent.com/alvarordgs/alvarordgs/main/assets/linux.svg"/></span> 
- 
-<br>
-
-### :bar_chart: Github stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarordgs&layout=compact&theme=)](https://github.com/anuraghazra/github-readme-stats)
+# 💫 About Me:
+🌱 I'm currently work on Grão Direto<br>📓 I’m currently learning React Native <br>💬 Ask me about web development<br>⚡ Fun fact about me, I started four different undergraduate courses
 
 
-<!--
-**alvarordgs/alvarordgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alvaro-rdgs) 
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=alvarordgs&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=alvarordgs&theme=highcontrast&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarordgs&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
